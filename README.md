@@ -1,6 +1,5 @@
-# ML_Supervised_Learning
+# Heart Failure Prediction using KNN, Naïve Bayes, Logistic Regression and Decision Trees
 
-Project: Heart Failure Prediction using KNN, Naïve Bayes, Logistic Regression and Decision Trees
 Data set : https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction. 
 
 Project Domain:
